@@ -1,4 +1,6 @@
-Nama : Hasan Maulana... Kelas : TI.19.A.1... NIM : 311910167
+Nama : Hasan Maulana
+Kelas : TI.19.A.1 
+NIM : 311910167
 
 Langkah-langkah praktikum 
 
