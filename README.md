@@ -1,8 +1,6 @@
-Nama : Hasan Maulana
-Kelas : TI.19.A.1 
-NIM : 311910167
+Nama : Hasan Maulana.....     Kelas : TI.19.A.1 .....     NIM : 311910167
 
-Langkah-langkah praktikum 
+Langkah-langkah praktikum KE 3
 
 Persiapan membuat dokumen HTML..
 dengan nama lab3_list.html
