@@ -1,3 +1,5 @@
+Nama : Hasan Maulana... Kelas : TI.19.A.1... NIM : 311910167
+
 Langkah-langkah praktikum 
 
 Persiapan membuat dokumen HTML..
@@ -74,3 +76,5 @@ dan ini tampilan nya
 ![soal output nya](https://user-images.githubusercontent.com/56497286/114537768-c7fc2380-9c7c-11eb-989b-f288fb8efa0c.png)
 
 
+maaf pak kalau byk salah, 
+terima kasih
